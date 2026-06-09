@@ -1,0 +1,20 @@
+2026-06-09T06:50:17 | INFO     | trading_bot | Logging initialised — file: /home/claude/trading_bot/logs/trading_bot_20260609.log
+2026-06-09T06:50:22 | INFO     | trading_bot | Logging initialised — file: /home/claude/trading_bot/logs/trading_bot_20260609.log
+2026-06-09T06:50:22 | INFO     | trading_bot.cli | CLI invoked with args: {'api_key': '', 'api_secret': '', 'symbol': 'BTCUSDT', 'side': 'BUY', 'order_type': 'MARKET', 'quantity': '0.001', 'price': None, 'stop_price': None, 'time_in_force': 'GTC', 'reduce_only': False, 'dry_run': True, 'log_level': 'WARNING'}
+2026-06-09T06:50:22 | INFO     | trading_bot | Logging initialised — file: /home/claude/trading_bot/logs/trading_bot_20260609.log
+2026-06-09T06:50:22 | INFO     | trading_bot.cli | CLI invoked with args: {'api_key': '', 'api_secret': '', 'symbol': 'BTCUSDT', 'side': 'BUY', 'order_type': 'LIMIT', 'quantity': '0.001', 'price': None, 'stop_price': None, 'time_in_force': 'GTC', 'reduce_only': False, 'dry_run': True, 'log_level': 'WARNING'}
+2026-06-09T06:50:22 | ERROR    | trading_bot.cli | Validation failed: Price is required for LIMIT orders.
+2026-06-09T06:50:25 | INFO     | trading_bot | Logging initialised — file: /home/claude/trading_bot/logs/trading_bot_20260609.log
+2026-06-09T06:50:25 | INFO     | trading_bot.cli | CLI invoked with args: {'api_key': '', 'api_secret': '', 'symbol': 'BTCUSDT', 'side': 'BUY', 'order_type': 'MARKET', 'quantity': '0.001', 'price': None, 'stop_price': None, 'time_in_force': 'GTC', 'reduce_only': False, 'dry_run': True, 'log_level': 'WARNING'}
+2026-06-09T06:50:35 | INFO     | trading_bot | Logging initialised — file: /home/claude/trading_bot/logs/trading_bot_20260609.log
+2026-06-09T06:50:35 | INFO     | trading_bot.cli | CLI invoked with args: {'api_key': '', 'api_secret': '', 'symbol': 'BTCUSDT', 'side': 'BUY', 'order_type': 'LIMIT', 'quantity': '0.001', 'price': '71000', 'stop_price': None, 'time_in_force': 'GTC', 'reduce_only': False, 'dry_run': True, 'log_level': 'WARNING'}
+2026-06-09T06:50:35 | INFO     | trading_bot | Logging initialised — file: /home/claude/trading_bot/logs/trading_bot_20260609.log
+2026-06-09T06:50:35 | INFO     | trading_bot.cli | CLI invoked with args: {'api_key': '', 'api_secret': '', 'symbol': 'ETHUSDT', 'side': 'BUY', 'order_type': 'STOP_MARKET', 'quantity': '0.01', 'price': None, 'stop_price': '3800', 'time_in_force': 'GTC', 'reduce_only': False, 'dry_run': True, 'log_level': 'WARNING'}
+2026-06-09T06:50:35 | ERROR    | trading_bot.cli | Validation failed: Price is required for STOP_MARKET orders.
+2026-06-09T06:50:58 | INFO     | trading_bot | Logging initialised — file: /home/claude/trading_bot/logs/trading_bot_20260609.log
+2026-06-09T06:50:58 | INFO     | trading_bot.cli | CLI invoked with args: {'api_key': '', 'api_secret': '', 'symbol': 'BTCUSDT', 'side': 'BUY', 'order_type': 'MARKET', 'quantity': '0.001', 'price': None, 'stop_price': None, 'time_in_force': 'GTC', 'reduce_only': False, 'dry_run': True, 'log_level': 'WARNING'}
+2026-06-09T06:50:58 | INFO     | trading_bot | Logging initialised — file: /home/claude/trading_bot/logs/trading_bot_20260609.log
+2026-06-09T06:50:58 | INFO     | trading_bot.cli | CLI invoked with args: {'api_key': '', 'api_secret': '', 'symbol': 'BTCUSDT', 'side': 'SELL', 'order_type': 'LIMIT', 'quantity': '0.001', 'price': '71000', 'stop_price': None, 'time_in_force': 'GTC', 'reduce_only': False, 'dry_run': True, 'log_level': 'WARNING'}
+2026-06-09T06:50:58 | INFO     | trading_bot | Logging initialised — file: /home/claude/trading_bot/logs/trading_bot_20260609.log
+2026-06-09T06:50:58 | INFO     | trading_bot.cli | CLI invoked with args: {'api_key': '', 'api_secret': '', 'symbol': 'ETHUSDT', 'side': 'BUY', 'order_type': 'STOP_MARKET', 'quantity': '0.01', 'price': None, 'stop_price': '3800', 'time_in_force': 'GTC', 'reduce_only': False, 'dry_run': True, 'log_level': 'WARNING'}
+2026-06-09T06:50:59 | INFO     | trading_bot | Logging initialised — file: /home/claude/trading_bot/logs/trading_bot_20260609.log
